@@ -35,7 +35,18 @@ Loss of congruity may manifest as:
 - It does **not** provide diagnosis, treatment, or medical advice
 - No clinical protocols are proposed
 - Any practical application requires **independent empirical validation**
+## Struttura concettuale del framework
 
+- Aging → perdita progressiva di congruità sistemica  
+- Neurodegenerazione → collasso passivo della congruità  
+- Cancro → evasione attiva e selettiva della congruità  
+
+Il framework distingue chiaramente tra:
+- deterioramento,
+- collasso,
+- evasione,
+
+come dinamiche **non equivalenti** all’interno della perdita di congruità sistemica.
 ---
 
 ## Application Domains (in development)
