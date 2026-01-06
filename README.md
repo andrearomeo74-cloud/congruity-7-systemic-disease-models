@@ -10,7 +10,7 @@ Pathology is modeled as a **loss of systemic proportionality** between:
 - **V** – Functional Value  
 
 This work is **theoretical, non-clinical, and non-therapeutic** in nature.
-
+This repository models disease as a system-level loss or evasion of proportionality, not as isolated molecular failure.
 ---
 
 ## Foundational Principle
