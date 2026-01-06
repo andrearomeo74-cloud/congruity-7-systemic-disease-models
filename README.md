@@ -29,6 +29,16 @@ Loss of congruity may manifest as:
 - primary informational incoherence (genetic disorders).
 
 ---
+## Scope, Boundaries, and Non-Clinical Nature
+
+This repository presents **conceptual and theoretical** frameworks only.
+
+- It is **not** medical, clinical, or therapeutic guidance.
+- It does **not** provide diagnosis, treatment, or personalized advice.
+- It does **not** introduce operational thresholds, executable decision rules, or predictive guarantees.
+- Any practical application requires **independent empirical validation** and domain-specific review.
+
+The goal is **clarity, boundedness, and falsifiability where possible**, without over-claiming.
 
 ## Scope and Limitations
 - This repository presents **conceptual and modeling frameworks only**
